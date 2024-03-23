@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+opencv-python
+pandas
+streamlit
+streamlit-extras
+uuid
+plotly
+scikit-learn
+pymongo
+requests
